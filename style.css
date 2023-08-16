@@ -216,7 +216,12 @@
       }
 
       .section1-width {
-        width: 500px;
+        width: 520px;
+      }
+
+      .section1-width-flowing {
+        width: 520px;
+        margin-right: 140px;
       }
 
       .section-text p {
